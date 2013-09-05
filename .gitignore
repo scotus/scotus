@@ -1,0 +1,4 @@
+*.app
+*.conf
+*.java
+.DS_Store
